@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "Ariana S. Huffmyer, PhD"
-  site-url: "https://ahuffmyer.github.io"
+  title: "Madeline Baird"
+  site-url: "https://madsmarine.github.io"
   google-analytics: "G-ELNM3LZTN1"
   navbar:
     logo: headshots/logo.png
@@ -17,13 +17,15 @@ website:
         menu:
           - text: "Overview"
             href: "research.qmd"
-          - text: "Holobiont interactions"
+            - text: "Sharks"
             href: "theme-holobiont.qmd"
-          - text: "Life-history programming"
+          - text: "Oysters"
+            href: "theme-holobiont.qmd"
+          - text: "Sandlance"
             href: "theme-lifehistory.qmd"
-          - text: "Physiological flexibility"
+          - text: "Sea Stars"
             href: "theme-flexibility.qmd"
-          - text: "Science education"
+          - text: "Harbor Seals"
             href: "theme-education.qmd"
       - text: "Lab Notebook"
         href: notebook.qmd
@@ -33,7 +35,7 @@ website:
       - icon: github
         href: https://github.com/AHuffmyer
       - icon: linkedin
-        href: https://www.linkedin.com/in/ariana-s-huffmyer/
+        href: www.linkedin.com/in/madeline-baird28275
   
   page-footer:
     left: |
