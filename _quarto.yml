@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ariana S. Huffmyer, PhD"
+  site-url: "https://ahuffmyer.github.io"
+  google-analytics: "G-ELNM3LZTN1"
+  navbar:
+    logo: headshots/logo.png
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "CV"
+        href: about.qmd
+      - text: "Research"
+        menu:
+          - text: "Overview"
+            href: "research.qmd"
+          - text: "Holobiont interactions"
+            href: "theme-holobiont.qmd"
+          - text: "Life-history programming"
+            href: "theme-lifehistory.qmd"
+          - text: "Physiological flexibility"
+            href: "theme-flexibility.qmd"
+          - text: "Science education"
+            href: "theme-education.qmd"
+      - text: "Lab Notebook"
+        href: notebook.qmd
+      - text: "Gallery"
+        href: gallery.qmd
+    right:
+      - icon: github
+        href: https://github.com/AHuffmyer
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ariana-s-huffmyer/
+  
+  page-footer:
+    left: |
+      <img src="headshots/logo.png" alt="Huffmyer Lab logo" class="footer-logo">
+      <br>
+      © 2026 Ariana Huffmyer
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    link-external-newwindow: true
+    link-external-icon: false
+
+execute:
+  freeze: auto
