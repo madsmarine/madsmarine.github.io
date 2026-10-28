@@ -1,5 +1,26 @@
 ---
-layout: default
-permalink: /notebook/
-title: Lab Notebook
+title: "Lab Notebook"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, reading-time, description, categories]
+  date-format: "YYYY-MM-DD"
+  feed: true
+page-layout: full
+title-block-banner: false
+---
+
+
+
+## How to Explore This Notebook
+
+- **Search**: Use the search box to find entries by keywords
+- **Filter by Category**: Click on categories to filter entries by project or topic
+- **Sort**: Sort entries by date, title, or other criteria
+- **Browse**: Scroll through all entries in chronological order
+
 ---
