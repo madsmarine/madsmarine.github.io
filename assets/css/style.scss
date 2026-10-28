@@ -1,21 +1,19 @@
+---
+---
+@import "jekyll-theme-cayman"; /* Hardcoded fix for GitHub compilation */
 
-.custom-tabs {
+/* Custom Navigation Tabs styling */
+.custom-nav-tabs {
+  margin-top: 2rem;
   display: flex;
-  border-bottom: 2px solid #ccc;
-  margin-bottom: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
 }
 
-.tab-item {
-  padding: 10px 20px;
-  text-decoration: none;
-  color: #333;
-  font-weight: bold;
-  border: 1px solid transparent;
-  border-bottom: none;
-  margin-right: 5px;
-  border-radius: 4px 4px 0 0;
-}
-
-.tab-item:hover {
-  background-color: #f0f0f0;
+.custom-nav-tabs .site-tab {
+  padding: 0.6rem 1.2rem;
+  font-size: 0.95rem;
+  display: inline-block;
+  margin-bottom: 0;
 }
