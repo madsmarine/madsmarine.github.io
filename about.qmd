@@ -1,7 +1,150 @@
 ---
-layout: default
-permalink: /about/
-title: About
+title: "Curriculum Vitae"
 ---
 
-I am a Masters Student at James Cook University in the Rummer Lab studying epaulette shark development.
+::: {.content-card}
+Download a copy of my [CV here](https://drive.google.com/file/d/1YoCzzaly8yEfzAXzA7QCf0Iw8nGdfp8B/view?usp=drive_link).  
+:::
+
+::: {.content-card}
+## Education
+
+- **2026-2027: Masters of Marine Biology** - James Cook University Townsville
+
+- **2022-2025: Bachelor of Science** - University of Washington (UW), Marine Biology
+:::
+
+::: {.content-card}
+## Professional Experience
+
+- **2026-present: Shark husbandry volunteert** (James Cook University)
+
+:::
+
+::: {.content-card}
+## Publications
+
+1. Baird M, **AS Huffmyer**, N Ozguner, SB Roberts. 2026. Parental immune priming reshapes offspring growth, metabolism, and thermal tolerance in the Pacific Oyster. *In revision*. Aquaculture Research. [Read on bioRxiv here.](https://doi.org/10.64898/2025.12.10.693539)  
+4. **Huffmyer AS**, N Ozguner, M Baird, C Elvrum, C Kounellas, D Dicksion, SJ White, L Plough, MR Gavery, N Krebs, W Walton, J Small, M Pitsenbarger, H Ealy-Whitfield, S Roberts. From blue to pink: Resazurin as a high-throughput proxy for metabolic rate in oysters. *PeerJ* 14:e21542. [Read here.](https://peerj.com/articles/21542/#) 
+
+:::
+
+::: {.content-card}
+## Awards & Honors
+
+#### Postdoctoral Funding and Awards 
+
+- **grant** - 2022-2024
+
+
+#### Graduate Funding and Awards 
+
+- **National Science Foundation GEOPAths** - 2021-2022
+
+#### Undergraduate Funding and Awards 
+
+- ** Scholarship** - 2012-2014
+
+:::
+
+::: {.content-card}
+## Presentations 
+
+View my public presentations on [GitHub here.](https://github.com/AHuffmyer/presentations/tree/master)
+
+#### Oral Presentations  
+
+1. **Huffmyer AS**, M Gavery, M Baird, N Ozguner, S Roberts. Environmental stress hardening improves stress resilience in Pacific oysters. Pacific Coast Shellfish Growers Association Conference. Blaine, WA, USA. September 2026.
+
+
+#### Presentations by Mentored Students
+
+1. Baird M, **Huffmyer AS**, Roberts S. Application of metabolic assays to characterize thermal tolerance in Pacific Oyster (Magallana gigas) early life stages. University of Washington Undergradaute Research Symposium. Seattle, WA, USA. May 2025. Population Health Reconigtion Award. 
+
+
+:::
+
+::: {.content-card}
+# Mentorship
+
+- 2025-2026: Undergraduate student supervised research, University of Washington (10+ students)	
+
+
+#### Awards and Recognition in Mentorship
+
+- 2019: University of Hawaiʻi at Mānoa Graduate Student Organization Award in Mentorship
+
+:::
+
+
+
+::: {.content-card}
+# Leadership, Outreach, and Communication
+
+#### Outreach and Science Communication 
+
+- 2025: University of Washington SAFS Open House Public Outreach (>100 people)
+
+		
+
+#### Media Involvement 
+
+- Scientific American, “How corals fight back against warming seas”. February 2025 
+- Chemical and Engineering News, “Young coral beat the heat with metabolic rewiring”. November 2024
+- 10+ media outlets,“Young corals use metabolic tricks to resist bleaching”. November 2024
+- UH Mānoa SOEST News, “Student researchers improve coral restoration efforts”. March 2022
+- Rhode Island Reporter, Brooke Wolfenbarger. “Saving Coral Reefs”. Scientific Advisor. March 2021
+- NOVA PBS: “Reef Rescue”. Scientific Advisor. January 2021.
+- Caravan Labs: “Lost cities: A story of coral”. Interactive Documentary. 2020. 
+- CBC: “Reef Rescue”. Documentary. March 2020.
+- Astrobites: “How TAs make a difference in the classroom”. Briley Lewis, UCLA. 2019. 
+- Gizmodo: “How a Superheroic Breed of Coral could help save the reefs”. July 2018.
+- Voice of the Sea: “Human Assisted Corals”. Episode 5-7. June 2018.
+- NOVA PBS: “Decoding the Weather Machine”. April 2018.
+- HBO Vice: “Rebuilding our Reefs”. Episode 5. September 2017. 
+- Wavelengths Podcast: “Super Corals – Getting Ahead of Climate Change”. Episode 3. January 2018.
+
+#### Leadership and Community Involvement 
+
+- 2026: International Coral Reef Symposium session chair (Metabolic foundation of reef function)
+- 2025: International Coral Reef Society Virtual Delegate United Nations Convention on Climate Change (COP29)
+- 2022-2024: Scientific advisor - Reefs Unknown mesophotic reef research program
+- 2021: University of Washington PhD Career Ladder Program
+- 2018-2020: National Marine Educators Association conference planning committee member
+- 2018-2019: 44th Annual UHM Albert Tester Memorial Student Symposium organizer
+- 2015-2016: Graduate Women in Science Outreach Coordinator Officer	
+:::
+
+<hr class="section-divider">
+
+::: {.content-card}
+## Contact
+
+##### Madeline Baird
+Masters Student  
+College of Science and Engineering  
+James Cook University
+
+##### Email:  
+[mbaird2827@gmail.com](mailto:mbaird2827@gmail.com)  
+
+##### Mailing Address:  
+1122 NE Boat St Rm 116  
+Seattle, WA 98195  
+
+##### Office Location:   
+Fisheries Teaching & Research Building  
+University of Washington  
+Room 234  
+
+---
+
+### Find me online
+
+- [GitHub](https://github.com/madsmarine)  
+- [Google Scholar](https://scholar.google.com/citations?user=9UtvQmsAAAAJ&hl=en)  
+- [ResearchGate](https://www.researchgate.net/profile/Madeline-Baird-3?ev=hdr_xprf)  
+- [ORCID]
+- [Roberts Lab at UW](https://faculty.washington.edu/sr320/) 
+
+:::
